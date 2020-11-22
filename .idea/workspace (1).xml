@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bf8cadd-030d-4884-a310-9d2c68cdae52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c9TAvirC9Eaq8uHfBRVUMoZcYK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sublime/demo1.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Python.demo1">
+    <configuration name="demo1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MySql" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../sublime" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../sublime/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MySql" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlmoban" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MySql" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysqlmoban.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MySql" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo1" />
+        <item itemvalue="Python.mysqlmoban" />
+        <item itemvalue="Python.demo1 (1)" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bf8cadd-030d-4884-a310-9d2c68cdae52" name="Default Changelist" comment="" />
+      <created>1589939669201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589939669201</updated>
+      <workItem from="1589939670546" duration="1086000" />
+      <workItem from="1589950311689" duration="9000" />
+      <workItem from="1589977682380" duration="984000" />
+      <workItem from="1589978692916" duration="821000" />
+      <workItem from="1590024900124" duration="2589000" />
+      <workItem from="1590067353014" duration="1156000" />
+      <workItem from="1590141495063" duration="53000" />
+      <workItem from="1590200645873" duration="199000" />
+      <workItem from="1590282842514" duration="2929000" />
+      <workItem from="1590318719715" duration="1394000" />
+      <workItem from="1590368309438" duration="3319000" />
+      <workItem from="1590371902512" duration="1494000" />
+      <workItem from="1590399276999" duration="588000" />
+      <workItem from="1590399885094" duration="8274000" />
+      <workItem from="1590457343716" duration="7000" />
+      <workItem from="1590494658355" duration="1000000" />
+      <workItem from="1590564695690" duration="2167000" />
+      <workItem from="1590566928910" duration="1224000" />
+      <workItem from="1590636474640" duration="60000" />
+      <workItem from="1591148965163" duration="2026000" />
+      <workItem from="1591151933414" duration="73000" />
+      <workItem from="1591164084987" duration="7000" />
+      <workItem from="1591188541802" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="153" y="268" key="#SQL_Dialects" timestamp="1590283497862">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="153" y="268" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1590283497862" />
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590284862209">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589977840664" />
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1590284862209" />
+    <state x="411" y="171" key="FileChooserDialogImpl" timestamp="1590494695207">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="411" y="171" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590494695207" />
+    <state x="638" y="334" key="Github.ShareDialog" timestamp="1591188587353">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="638" y="334" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1591188587353" />
+    <state x="626" y="54" key="Github.UntrackedFilesDialog" timestamp="1591188598259">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="626" y="54" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591188598259" />
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1591151992131">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590026326881" />
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591151992131" />
+    <state width="1493" height="231" key="GridCell.Tab.0.center" timestamp="1591151992131">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590026326881" />
+    <state width="1493" height="231" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591151992131" />
+    <state width="1493" height="231" key="GridCell.Tab.0.left" timestamp="1591151992131">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590026326881" />
+    <state width="1493" height="231" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591151992131" />
+    <state width="1493" height="231" key="GridCell.Tab.0.right" timestamp="1591151992131">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590026326881" />
+    <state width="1493" height="231" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591151992131" />
+    <state x="386" y="10" width="951" height="747" key="SettingsEditor" timestamp="1590564872762">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="278" y="52" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589977901833" />
+    <state x="386" y="10" width="951" height="747" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590564872762" />
+    <state x="361" y="161" key="Vcs.Push.Dialog.v2" timestamp="1591188612313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="161" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1591188612313" />
+    <state x="310" y="79" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591149114535">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="310" y="79" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1591149114535" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="0" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MySql$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1590495566288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../sublime" />
+    <SUITE FILE_PATH="coverage/MySql$test.coverage" NAME="test Coverage Results" MODIFIED="1590407305325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MySql$mysqlmoban.coverage" NAME="mysqlmoban Coverage Results" MODIFIED="1591150775877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MySql$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1591151959340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
